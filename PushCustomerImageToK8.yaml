@@ -56,7 +56,7 @@ spec:
         path: /
   tls:
   - hosts:
-    - ENDPOINT.daeipresal51597.eur.ad.sag
+    - ENDPOINT.daeipresal51397.eur.ad.sag
     secretName: daeipresal51397
  
 
